@@ -1,0 +1,2 @@
+Passwörter sind wie die Nutzernamen:
+login(admin,admin)
