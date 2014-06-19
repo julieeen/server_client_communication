@@ -1,2 +1,2 @@
-Passwörter sind wie die Nutzernamen:
+dafault passwords equals username
 login(admin,admin)
